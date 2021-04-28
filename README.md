@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ana-schoffen/ana-schoffen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: faeschoffen@gmail.com
 - 😄 Pronouns: any pronouns is fine!
 - ⚡ Fun fact: my hair is blue now.
--->
